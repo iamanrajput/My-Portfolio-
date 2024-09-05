@@ -1,0 +1,62 @@
+[
+  {
+    "name": "You Eat",
+    "desc": "Developed an interactive front-end website featuring a user-friendly UI and seamless integration with the Swiggy API for real-time data display",
+    "image": "youeat",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/iamanrajput/You-Eat"
+    }
+  },
+  {
+    "name": "Gadget Clobe",
+    "desc": "Developed a dynamic electronic store front end website using React.",
+    "image": "gadgetglobe",
+    "category": "front-end",
+    "links": {
+      "view": "https://gadget-globe-rho.vercel.app/",
+      "code": "https://github.com/iamanrajput/GadgetGlobe"
+    }
+  },
+  {
+    "name": "Amazon Clone",
+    "desc": "Developed a fully functional Amazon clone using HTML, CSS, and JavaScript.",
+    "image": "amazon",
+    "category": "basicweb",
+    "links": {
+      "view": "https://amazon-clone-eight-amber.vercel.app/",
+      "code": "https://github.com/iamanrajput/Amazon-Clone"
+    }
+  },
+  {
+    "name": "Quiz App",
+    "desc": "This is a quiz application designed using React and styled with Chakra UI. The app allows users to take quizzes and see their scores.",
+    "image": "quiz",
+    "category": "front-end",
+    "links": {
+      "view": "https://brain-iq.vercel.app/",
+      "code": "https://github.com/iamanrajput/BrainIQ"
+    }
+  },
+  {
+    "name": "Rock Paper Scissor",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript.",
+    "image": "rockpaperscissor",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rock-paper-scissors-dun-three.vercel.app/",
+      "code": "https://github.com/iamanrajput/Rock-Paper-Scissors"
+    }
+  },
+  {
+    "name": "ID Card Generator",
+    "desc": "Summer Training Project",
+    "image": "idcard",
+    "category": "basicweb",
+    "links": {
+      "view": "https://id-card-generator-sigma.vercel.app/",
+      "code": "https://github.com/iamanrajput/ID-Card-Generator"
+    }
+  }
+]
